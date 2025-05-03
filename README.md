@@ -1,6 +1,8 @@
-Thesis submitted at part of my BSc. (Hons.) in Computer Science at University College Dublin.
+# Automated Recognition of Tactics in Chess: Exploratory Analysis of the Role of Tactics in Gameplay
 
-# Abstract
+A thesis submitted in part fulfilment of the degree of **BSc. (Hons.) in Computer Science** at University College Dublin.
+
+## Abstract
 This project focuses on automating the identification of tactics, also commonly referred to as
 *tactical motifs*, in chess games by leveraging advanced chess engines and external domain knowledge.
 A tactical motif in chess refers to a specific pattern or combination of moves aimed at gaining
